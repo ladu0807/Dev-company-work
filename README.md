@@ -1,2 +1,3 @@
 # Dev-company-work
-this is the file develope and changk
+the developments are to done with consience
+
